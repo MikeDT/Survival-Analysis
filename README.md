@@ -1,1 +1,2 @@
 # Survival Analysis
+It's been a good long while since I looked at any of this discipline, and in an effort to document my (re)education I figured I'd keep a log here.  I read that creating narratives helps the memory (and got told again in pysc classes), so I figured jupyter and markdowns were going to be my friend.  Can't imagine anyone's looking here, but if they are, prepare to be underwhelmed :)
